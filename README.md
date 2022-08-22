@@ -1,0 +1,2 @@
+# SendMail
+SendEmail in django
